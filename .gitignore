@@ -1,3 +1,30 @@
+# Data files to ingore for my Phython projects
+*.csv
+*.xlsx
+*.xls
+*.txt
+*.jsong
+
+# Folders to ignore
+data/
+output/
+results/
+logs/
+figures/
+plots/
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
